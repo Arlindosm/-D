@@ -6,8 +6,8 @@ body {
 
 section {
     background-color: rgb(96, 6, 119);
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     display: flex;
     justify-content: space-around;
     margin-left: 2%;
