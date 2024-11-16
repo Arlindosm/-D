@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(68, 4, 4);
-    color: rgb(241, 238, 19);
+    background-color: rgb(21, 4, 68);
+    color: rgb(221, 218, 8);
     border: solid px white;
 }
 
 section {
-    background-color: rgb(4, 68, 7);
+    background-color: rgb(96, 6, 119);
     padding-top: 40px;
     padding-bottom: 40px;
     display: flex;
