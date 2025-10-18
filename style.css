@@ -18,7 +18,7 @@ section {
 .btn-destaque {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #22D4FD;
+    background-color: rgb(78, 5, 99);
     color: black;
     text-decoration: none;
     border-radius: 5px;
