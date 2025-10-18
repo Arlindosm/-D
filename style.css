@@ -19,7 +19,7 @@ section {
     display: inline-block;
     padding: 10px 20px;
     background-color: rgb(221, 130, 247);
-    color: black;
+    color: rgb(238, 112, 196);
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease;
