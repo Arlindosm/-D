@@ -26,6 +26,9 @@ section {
     margin-left: 357px;
     justify-content: auto;
 }
+.btn-destaque:hover {
+    background-color: #0056b3;
+}
 
 .chamada-texto {
     margin-right: 5%;
