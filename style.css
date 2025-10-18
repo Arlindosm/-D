@@ -15,6 +15,17 @@ section {
     margin-top: 2%;
     margin-bottom: 2%;
 }
+.btn-destaque {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #22D4FD;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    margin-left: 357px;
+    justify-content: auto;
+}
 
 .chamada-texto {
     margin-right: 5%;
