@@ -18,11 +18,11 @@ section {
 
 .btn-destaque {
     display: inline-block;
-    padding: 3px 3px;
+    padding: 1px 1px;
     background-color: rgb(221, 130, 247);
     color: rgb(29, 26, 26);
     text-decoration: none;
-    border-radius: 3px;
+    border-radius: 1px;
     transition: background-color 0.3s ease;
     margin-left: 35px;
     justify-content: auto;
